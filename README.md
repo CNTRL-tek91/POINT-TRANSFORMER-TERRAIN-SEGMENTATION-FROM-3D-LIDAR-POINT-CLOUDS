@@ -2,8 +2,8 @@
 This repo is the official project repository of my project **_POINT TRANSFORMER TERRAIN SEGMENTATION FROM 3D-LIDAR POINT CLOUDS_**, which will display and explain key features.
 
 <div align="center">
-  <img src="assets/terrain_images/t3.png" height="272" />
-  <img src="assets/agilex_scout_mini/Scout_mini__74935.png" height="272" />
+  <img src="assets/terrain_images/t3.png" height="250" />
+  <img src="assets/agilex_scout_mini/Scout_mini__74935.png" height="250" />
 </div>
 
 
