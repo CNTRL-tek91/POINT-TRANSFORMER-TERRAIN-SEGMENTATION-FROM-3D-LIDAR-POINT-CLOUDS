@@ -11,7 +11,7 @@ This repo is the official project repository of my project **_POINT TRANSFORMER 
 
 
 <!-- Connect with me -->
-<h3 align="center">Tech Stack</h3>
+## Tech Stack
 <div align="center">
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -23,3 +23,13 @@ This repo is the official project repository of my project **_POINT TRANSFORMER 
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
+
+
+<!-- CONTACT -->
+## Contact
+
+Kcey Stadalman - kceystad7@outlook.com
+
+Project Link: [https://github.com/CNTRL-tek91/POINT-TRANSFORMER-TERRAIN-SEGMENTATION-FROM-3D-LIDAR-POINT-CLOUDS](https://github.com/CNTRL-tek91/POINT-TRANSFORMER-TERRAIN-SEGMENTATION-FROM-3D-LIDAR-POINT-CLOUDS))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
