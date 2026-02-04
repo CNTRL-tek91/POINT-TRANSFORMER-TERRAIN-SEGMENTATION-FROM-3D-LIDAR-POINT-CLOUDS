@@ -24,6 +24,13 @@ This repo is the official project repository of my project **_POINT TRANSFORMER 
 
 </div>
 
+## Key Features/Steps
+Below is a list of features involved in the creation of this project
+
+1. Custom, procedurally generated 3D terrain that maintains an even distribution of smooth, drivable areas and steep, rugged terrain.
+   
+      1.1. 3D terrains were built with Blender using a Geometry Node system. The following link was used as a guide to create the Geometry Node system: [https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s](https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s))
+
 
 <!-- CONTACT -->
 ## Contact
