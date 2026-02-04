@@ -1,5 +1,5 @@
 # POINT TRANSFORMER TERRAIN SEGMENTATION FROM 3D-LIDAR POINT CLOUDS
-This repo is the official project repository of my project **_POINT TRANSFORMER TERRAIN SEGMENTATION FROM 3D-LIDAR POINT CLOUDS_**, which will display and explain key features.
+This repo is the official project repository of my project **_POINT TRANSFORMER TERRAIN SEGMENTATION FROM 3D-LIDAR POINT CLOUDS_**, which will display and explain key features. The motivation behind the idea is to provide a system that can accurately segment off-road terrain into drivable vs non-drivable regions for vehicles equipped with LiDAR sensors. Point Cloud data is captured using LiDAR sensors and recorded using a combination of Rviz and rosbag. The recorded point cloud data is then converted into datasets with binary target labels(drivable and non-drivable), which are derived from the original terrain meshes that are painted/sectioned. Finally, the data is fed into a Point Transformer v3 model for training and evaluation. The PTv3 repository can be found at: [https://github.com/Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3).
 
 <div align="center">
   <img src="assets/terrain_images/t3.png" height="210" />
