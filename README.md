@@ -24,12 +24,30 @@ This repo is the official project repository of my project **_POINT TRANSFORMER 
 
 </div>
 
+## Environment + Simulation tools
+Below is the required environment setup for the project due to compatibility issues regarding the AgileX Scout Mini simulation model.
+
+  * OS: Ubuntu 20.04
+      * Installation: [https://releases.ubuntu.com/focal/](https://releases.ubuntu.com/focal/)
+  * ROS version: ROS 1 Noetic
+      * Installation: [https://wiki.ros.org/noetic/Installation/Ubuntu](https://wiki.ros.org/noetic/Installation/Ubuntu)
+  * Simulaton Environment: Gazebo Classic
+      * Installation: [https://classic.gazebosim.org/](https://classic.gazebosim.org/)
+  * Data Recording: Rviz
+      * Included with the installation of ROS 1 Noetic
+  * AgileX Scout Mini UGV Gazebo Sim repo: [https://github.com/agilexrobotics/ugv_gazebo_sim](https://github.com/agilexrobotics/ugv_gazebo_sim)
+
+
+
+
 ## Key Features/Steps
 Below is a list of features involved in the creation of this project
 
-1. Custom, procedurally generated 3D terrain that maintains an even distribution of smooth, drivable areas and steep, rugged terrain.
+1. Custom, procedurally generated 3D terrains that maintain an even distribution of smooth, drivable areas and steep, rugged terrain.
    
-      1.1. 3D terrains were built with Blender using a Geometry Node system. The following link was used as a guide to create the Geometry Node system: [https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s](https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s))
+    * 3D terrains were built with Blender using a Geometry Node system. The following link was used as a guide to create the Geometry Node system: [https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s](https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s)
+   
+    * 28 total terrains created, each exported as Collada(DAE) files for simulation compatibility.
 
 
 <!-- CONTACT -->
