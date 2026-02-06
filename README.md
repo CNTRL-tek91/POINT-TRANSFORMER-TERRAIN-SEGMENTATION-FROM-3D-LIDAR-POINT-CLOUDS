@@ -37,7 +37,7 @@ Below is the required environment setup for the project due to compatibility iss
       * Included with the installation of ROS 1 Noetic
   * AgileX Scout Mini UGV Gazebo Sim repo: [https://github.com/agilexrobotics/ugv_gazebo_sim](https://github.com/agilexrobotics/ugv_gazebo_sim)
 
-![recording2-MadewithClipchamp-ezgif com-added-text](https://github.com/user-attachments/assets/7cdb750d-cd5f-48c4-b3fb-679fad0ed653)
+
 
 
 
@@ -53,7 +53,8 @@ Below is a list of features involved in the creation of this project
 
 
 ## Recordings
-https://youtu.be/rX0H6gJw0GU
+
+![recording2-MadewithClipchamp-ezgif com-crop](https://github.com/user-attachments/assets/b46d8063-ac35-4966-88ec-55731e16db00)
 
 
 <!-- CONTACT -->
