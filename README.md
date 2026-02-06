@@ -56,9 +56,14 @@ Below is a list of features involved in the creation of this project
 
 
 Point cloud display via VLP-16 LiDAR sensor in Rviz:
+
 <div align="center">
-![recording2-MadewithClipchamp-ezgif com-crop](https://github.com/user-attachments/assets/b46d8063-ac35-4966-88ec-55731e16db00)
-  
+  <img src="captures/recording2-MadewithClipchamp-ezgif.com-crop.gif" />
+</div>
+
+
+
+<div align="center">
 *Point cloud colors displayed with AxisColor: Purple(High Elevation) -> Red(Low Elevation)*
 </div>
 
