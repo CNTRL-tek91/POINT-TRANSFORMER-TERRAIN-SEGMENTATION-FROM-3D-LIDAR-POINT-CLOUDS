@@ -37,6 +37,7 @@ Below is the required environment setup for the project due to compatibility iss
       * Included with the installation of ROS 1 Noetic
   * AgileX Scout Mini UGV Gazebo Sim repo: [https://github.com/agilexrobotics/ugv_gazebo_sim](https://github.com/agilexrobotics/ugv_gazebo_sim)
 
+![recording2-MadewithClipchamp-ezgif com-added-text](https://github.com/user-attachments/assets/7cdb750d-cd5f-48c4-b3fb-679fad0ed653)
 
 
 
@@ -48,6 +49,11 @@ Below is a list of features involved in the creation of this project
     * 3D terrains were built with Blender using a Geometry Node system. The following link was used as a guide to create the Geometry Node system: [https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s](https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s)
    
     * 28 total terrains created, each exported as Collada(DAE) files for simulation compatibility.
+  
+
+
+## Recordings
+https://youtu.be/rX0H6gJw0GU
 
 
 <!-- CONTACT -->
@@ -58,3 +64,5 @@ Kcey Stadalman - kceystad7@outlook.com
 Project Link: [https://github.com/CNTRL-tek91/POINT-TRANSFORMER-TERRAIN-SEGMENTATION-FROM-3D-LIDAR-POINT-CLOUDS](https://github.com/CNTRL-tek91/POINT-TRANSFORMER-TERRAIN-SEGMENTATION-FROM-3D-LIDAR-POINT-CLOUDS))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
