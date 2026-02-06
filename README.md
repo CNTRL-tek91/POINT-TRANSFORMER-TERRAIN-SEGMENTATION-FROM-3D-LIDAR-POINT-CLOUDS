@@ -54,6 +54,21 @@ Below is a list of features involved in the creation of this project
 
 ## Recordings
 
+AgileX Scout Mini traversing testing terrain inside Gazebo:
+
+<div align="center">
+  <img src="captures/recording1-ezgif.com-video-to-gif-converter.gif" />
+</div>
+
+
+
+<div align="center">
+*Testing terrain is terrain2*
+</div>
+
+
+
+
 
 Point cloud display via VLP-16 LiDAR sensor in Rviz:
 
