@@ -60,26 +60,19 @@ AgileX Scout Mini traversing testing terrain inside Gazebo:
   <img src="captures/recording1-ezgif.com-video-to-gif-converter.gif" />
 </div>
 
-
-
 <div align="center">
 *Testing terrain is terrain2*
 </div>
 
 
-
-
-
 Point cloud display via VLP-16 LiDAR sensor in Rviz:
-
 <div align="center">
   <img src="captures/recording2-MadewithClipchamp-ezgif.com-crop.gif" />
 </div>
 
 
-
 <div align="center">
-*Point cloud colors displayed with AxisColor: Purple(High Elevation) -> Red(Low Elevation)*
+*Point cloud colors displayed with AxisColor: Purple(High Elevation) -> Red(Low Elevation). Terrain scanned is the same terrain file as shown above.*
 </div>
 
 
