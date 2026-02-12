@@ -51,6 +51,17 @@ Below is a list of features involved in the creation of this project
         * By changing these parameter values, a unique terrain can be created(essential for data and training diversity)
    
     * 28 total terrains created, each exported as Collada(DAE) files for simulation compatibility.
+  
+2. Custom config files to specify terrain directories and visual + geometry meshes, world files to specify necessary parameters and create custom Gazebo worlds with the specified terrain, and launch files to simultaneously launch the Gazebo world alongside spawning the AgileX Scout Mini rover.
+   
+3. Teleop Twist Keyboard was utilized to maneuver the rover. Teleop_twist_keyboard is an ROS package that allows users to remotely control robots via keyboard inputs, converting keystrokes into geometry_msgs/Twist velocity messages.
+    * Exec command: rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+      
+4. Rviz was configured to activate and display the point cloud messages generated from the Velodyne VLP-16 LiDAR sensor during simulations. Rviz parameters were configured as follows:
+     * Fixed Frame: odom  -> Used to visualize the rover's position and orientation relative to the Gazebo simulation
+     * PointCloud2: velodyne_points  -> Display plugin used to visualize the 3D point cloud data being transmitted under the message name "velodyne_points"(message types/names may vary)
+         * Decay Time: 300  -> Allows the captured 3D point cloud data to remain on screen for a set duration of seconds. This was important in ensuring a total and complete scan of each terrain, capturing almost every detail.
+         * Axis Color: Z-axis (Height): A common use case for mapping color to the "z" field to create a height map, where lower points are one color(red) and higher points are another(purple).
    
   
 
