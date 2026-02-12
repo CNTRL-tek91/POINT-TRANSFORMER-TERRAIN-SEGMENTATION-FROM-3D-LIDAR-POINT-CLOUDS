@@ -56,6 +56,18 @@ Below is a list of features involved in the creation of this project
 
 
 ## Showcase
+AgileX Scout Mini on testing terrain #2 inside Gazebo environment:
+<div align="center">
+  <img src="assets/agilex_scout_mini/default_gzclient_camera(1)-2025-11-28T11_03_36.228892.jpg" />
+</div>
+
+AgileX Scout Mini model with implemented VLP-16 LiDAR sensor with configured positioning:
+<div align="center">
+  <img src="assets/agilex_scout_mini/scout_gazebo_labeled.png" height="410" />
+  <img src="assets/agilex_scout_mini/default_gzclient_camera(1)-2025-11-28T11_03_12.457555.jpg" height="410" />
+</div>
+
+
 
 AgileX Scout Mini traversing testing terrain inside Gazebo:
 
