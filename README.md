@@ -55,7 +55,7 @@ Below is a list of features involved in the creation of this project
   
 
 
-## Recordings
+## Showcase
 
 AgileX Scout Mini traversing testing terrain inside Gazebo:
 
