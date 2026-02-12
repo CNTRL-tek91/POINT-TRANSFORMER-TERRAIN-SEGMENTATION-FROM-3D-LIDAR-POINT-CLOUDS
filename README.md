@@ -47,8 +47,11 @@ Below is a list of features involved in the creation of this project
 1. Custom, procedurally generated 3D terrains that maintain an even distribution of smooth, drivable areas and steep, rugged terrain.
    
     * 3D terrains were built with Blender using a Geometry Node system. The following link was used as a guide to create the Geometry Node system: [https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s](https://www.youtube.com/watch?v=0VIK1Ct6jLM&t=120s)
+        * Customizable parameters for terrain generation: Vertice Count, Noise Factor, Noise Scale, Noise Detail, Noise Roughness, Noise Lacunarity, Noise Distortion, Noise Magnitude, Magnitude Z Offset
+        * By changing these parameter values, a unique terrain can be created(essential for data and training diversity)
    
     * 28 total terrains created, each exported as Collada(DAE) files for simulation compatibility.
+   
   
 
 
